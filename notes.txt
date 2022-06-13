@@ -1,0 +1,22 @@
+%% IMPP Katalog:
+
+20.2.3    Plastizität, Gedächtnis  und Lernen 
+
+Unterscheidung  von  Prägung  und  Lernen; nicht-assoziatives  und  assoziatives  Lernen;  Formen  des  assoziativen  Lernens: operante  und  klassische  Konditionierung; Gedächtnisformen: explizites und implizites Gedächtnis (Wissens- und Verhaltens-gedächtnis);  Einteilung  der  Gedächtnisformen  nach  der  Dauer  der  Speicherung; Zugriffssicherheit und -geschwindigkeit zu verschiedenen Gedächtnisspeichern; an  den  verschiedenen  Gedächtnisformen beteiligte Hirnregionen; neuronale Modelle der Kurz- und Langzeitspeicherung von Informationen;   synaptische   Plastizität, Hebbsche Synapse, zelluläre und molekulare  Mechanismen  von  Lernen  und  Gedächtnis; Amnesie-Formen; Aufmerksamkeit,  EEG-/fMRI-Veränderunen bei  Aufmerksamkeit,  Rolle  von  frontalem Augenfeld und Parietalkortex bei der Steuerung von Aufmerksamkeit; Neglekt
+
+
+
+Learning Objectives: 
+
+Assoziative und nicht-assoziative Formen des Lernens beschreiben
+operante und klassische Konditioinierung unterscheiden
+verschiedene Gedächtnisformen voneinander unterscheiden
+erklären, welche Gehirnstrukturen dem Gedächtnis zugrunde liegen
+Aufmerksamkeit definieren und die zugrundeliegenden Vorgänge im Gehirn beschreiben
+erklären, was eine Hebbsche Synapse ist
+die Eigenschaften von Long-Term Potentiation (LTP) erklären
+die zellulären und molekularen Prozesse bei LTP erläutern
+
+
+Formen von Amnesie aufzählen und erläutern
+Neglect erklären und typische Symptome beschreiben
